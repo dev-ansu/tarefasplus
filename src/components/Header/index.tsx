@@ -24,7 +24,7 @@ const Header = ()=>{
                 </nav>
                 {status  === 'loading' ? (<></>):session ? 
                 (
-                    <button onClick={()=> signOut("")} className={styles.loginButton}>Olá, {session?.user?.name}</button>
+                    <button onClick={()=> signOut()} className={styles.loginButton}>Olá, {session?.user?.name}</button>
                 ):(
                     <button onClick={()=> signIn("google")} className={styles.loginButton}>Acessar</button> 
                 )}
