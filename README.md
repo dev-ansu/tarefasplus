@@ -10,7 +10,8 @@ Aplicativo simples de gerenciamento de tarefas construído em NextJS e Firebase.
 - Os usuários podem logar no sistema com uma conta google.
 
 
-##Teste o projeto no link abaixo
+## Teste o projeto no link abaixo
+
 <a style="padding:8px 14px;border-radius:4px;background:#3218ff;color:#fff;font-size:16px;" href="https://tarefasplus-eight.vercel.app/">LIVE DEMO</a>
 
 ## Instalação 
