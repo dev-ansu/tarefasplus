@@ -1,6 +1,6 @@
-#Tarefas+
+# Tarefas+
 
-## if you don't speak or understand Portuguese, so copy the text below, paste it into Google Translate and VOILÀ! Now you can read it in english :*
+### if you don't speak or understand Portuguese, so copy the text below, paste it into Google Translate and VOILÀ! Now you can read it in english :*
 
 Aplicativo simples de gerenciamento de tarefas construído em NextJS e Firebase. O aplicativo permite:
 
